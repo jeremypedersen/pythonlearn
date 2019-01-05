@@ -36,7 +36,7 @@ PLAYER_R = 10 # Radius of player bubble
 
 RADIUS = 5 # Radius of food/enemy bubbles
 BLUE_CIRCLES = 10
-RED_CIRCLES = 10
+RED_CIRCLES = 50
 
 # Test if any two circles are touching
 def circleTouching(circleA, circleB):
