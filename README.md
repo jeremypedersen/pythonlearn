@@ -8,6 +8,12 @@ I teach this course to 12-15 year old students in China. The first part of the c
 
 Any way you like! Just make sure to maintain the Creative Commons Attribution 4.0 license.
 
+The materials themselves are organized by type:
+    - books: this directory holds the books I used to develop the course
+    - code: example code and additional resources for each class (**still in progress**)
+    - homework: homework and quizzes for classes 1-7
+    - slides: my PowerPoint slides for classes 1-8
+
 # What exactly is in this repository?
 
 - Lecture slides in .pptx format
