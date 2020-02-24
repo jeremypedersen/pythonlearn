@@ -1,5 +1,7 @@
 # What is this repository for?
 
+**Note: this repo is archived and will not be updated. It has been replaced by [pythonBootcamp](https://github.com/jeremypedersen/pythonBootcamp).**
+
 This repository stores my PowerPoint slides, lecture notes, and homework for a simple 8-session Python course. Each session is designed to last 2 hours, with roughly 1 hour of lecture and 1 hour of hands-on practice.
 
 I teach this course to 12-15 year old students in China. The first part of the course is adapted from Dr. Chuck's amazing, CC-licensed "Python for Everybody" class, which you can find [on the Python for Everybody website](https://py4e.com/). Later classes focus on writing a simple game, and borrow from Al Sweigart's great "Making Games with Python and Pygame" which you can find [on his website, here](http://inventwithpython.com/pygame/).
